@@ -12,9 +12,6 @@
 	#The duration of the Ghostly Shape effect in seconds [0..MAX|default:120]
 	#Range: > 0
 	ghostly_shape_duration = 120
-	#Rarity for Easter Eggs to spawn during Easter [1000..100000|default:5000]
-	#Range: 1000 ~ 100000
-	easter_egg_spawn_rarity = 100000
 
 #Allows to customize or disable the enchantments
 [enchantments]
@@ -128,6 +125,8 @@
 	#Cooldown in second after using a tablet [60..1200|default:300]
 	#Range: 60 ~ 1200
 	tablet_cooldown = 300
+	#Prevents to craft Enchanted Grave Key [false/true|default:false]
+	disable_enchanted_grave_key_recipe = false
 
 #For settings related to decorative tombs and magic items
 [decorative_grave]
@@ -207,6 +206,10 @@
 	allow_merchant_stone = true
 	#Prayer Stone [false/true|default:true]
 	allow_prayer_stone = true
+	#Tablet of Guard [false/true|default:true]
+	allow_tablet_of_guard = true
+	#Guardian Stone [false/true|default:true]
+	allow_guardian_stone = true
 
 #Allows to enable some features related to others mods
 [compatibility]
