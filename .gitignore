@@ -423,3 +423,13 @@ mods/Zeta-1.0-19.jar
 mods/.index
 mods/CTOV-v3.4.5.jar
 mods/SecurityCraft v1.9.10.jar
+logs
+.mixin.out
+blueprints
+local
+journeymap
+resourcepacks/Quark Programmer Art.zip
+options.txt
+keys.txt
+icon.png
+crash-reports
