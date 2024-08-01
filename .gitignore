@@ -443,3 +443,8 @@ simplebackups
 mods
 config/tacz/custom/tacz_default_gun/
 screenshots
+ds_private_storage.json
+patchouli_data.json
+rhino.local.properties
+servers.dat
+servers.dat_old
